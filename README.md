@@ -40,7 +40,7 @@ Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializadno em **integ
 
 <div align="left">
 
-[<img src="https://img.shields.io/badge/☀️🚀%20Sollun--Project--Ver%20repositório-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />](https://github.com/trindade74-dev/SollunProject)
+[<img src="https://img.shields.io/badge/☀️%20Sollun--Project--Ver%20repositório-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />](https://github.com/trindade74-dev/SollunProject)
 
 > API de cadastro de leads — Node.js • Docker
 
