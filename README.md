@@ -19,7 +19,7 @@ Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializadno em **integ
 ### 🚀 Sobre mim
 
 - [**Founder da Sollun Automation**](https://github.com/trindade74-dev/SollunProject) (Em manutenção ⚙️)
-- ⚙️ Integrações web, 
+- ⚙️ Integrações web, Desenvolvimento de plataformas e ambientes para cursos
 - 📚 Aprimorando **React**, **HTML & CSS**
 - 🐳 Gerenciando ambientes em **Docker**
 
