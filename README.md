@@ -10,7 +10,7 @@
 
 ### 👋 Olá! Seja bem-vindo ao meu perfil
 
-Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializadno em **integrações e automações com n8n**.
+Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializandno em **integrações e automações**.
 
 </div>
 
