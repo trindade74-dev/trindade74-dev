@@ -10,7 +10,7 @@
 
 ### 👋 Olá! Seja bem-vindo ao meu perfil
 
-Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializandno em **integrações e automações**.
+Sou **Fundador e Desenvolvedor da Sollun.app**.
 
 </div>
 
@@ -18,7 +18,7 @@ Sou **Desenvolvedor Fullstack** em **JavaScript** e me especializandno em **inte
 
 ### 🚀 Sobre mim
 
-- [**Founder da Sollun Automation**](https://github.com/trindade74-dev/SollunProject) (Em manutenção ⚙️)
+- [**Founder da Sollun.app**](https://github.com/trindade74-dev/SollunProject) (Em manutenção ⚙️)
 - ⚙️ Integrações web, Desenvolvimento de plataformas e ambientes para cursos
 - 📚 Aprimorando **React**, **HTML & CSS**
 - 🐳 Gerencimento ambientes em **Docker**
