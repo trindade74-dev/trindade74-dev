@@ -18,7 +18,7 @@ Sou **Fundador e Desenvolvedor da Sollun.app**.
 
 ### 🚀 Sobre mim
 
-- [**Founder da Sollun.app**][(https://github.com/trindade74-dev/SollunProject)](https://sollun-xi.vercel.app) (Em manutenção ⚙️)
+- [**Founder da Sollun.app**[(https://github.com/trindade74-dev/SollunProject)](https://sollun-xi.vercel.app) (Em manutenção ⚙️)
 - ⚙️ Integrações web, Desenvolvimento de plataformas e ambientes para cursos
 - 📚 Aprimorando **React**, **HTML & CSS**
 - 🐳 Gerencimento ambientes em **Docker**
