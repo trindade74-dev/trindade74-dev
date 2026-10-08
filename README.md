@@ -42,7 +42,7 @@ Sou **Fundador e Desenvolvedor da Sollun.app**.
 
 [<img src="https://img.shields.io/badge/☀️%20Lúmer--Ver%20repositório-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />](https://github.com/trindade74-dev/lumer-pagina)
 
-> API de cadastro de leads — Node.js • Docker
+> Projeto para ME — JavaScript
 
 </div>
 
