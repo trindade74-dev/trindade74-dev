@@ -18,7 +18,7 @@ Sou **Fundador e Desenvolvedor da Sollun.app**.
 
 ### 🚀 Sobre mim
 
-- [**Founder da Sollun.app**](https://github.com/trindade74-dev/SollunProject) (Em manutenção ⚙️)
+- [**Founder da Sollun.app**][(https://github.com/trindade74-dev/SollunProject)](https://sollun-xi.vercel.app) (Em manutenção ⚙️)
 - ⚙️ Integrações web, Desenvolvimento de plataformas e ambientes para cursos
 - 📚 Aprimorando **React**, **HTML & CSS**
 - 🐳 Gerencimento ambientes em **Docker**
@@ -40,7 +40,7 @@ Sou **Fundador e Desenvolvedor da Sollun.app**.
 
 <div align="left">
 
-[<img src="https://img.shields.io/badge/☀️%20Sollun--Project--Ver%20repositório-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />](https://github.com/trindade74-dev/SollunProject)
+[<img src="https://img.shields.io/badge/☀️%20Lúmer--Ver%20repositório-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />](https://github.com/trindade74-dev/lumer-pagina)
 
 > API de cadastro de leads — Node.js • Docker
 
